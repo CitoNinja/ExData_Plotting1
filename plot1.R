@@ -1,4 +1,4 @@
-setwd("~/Coursera")
+## setwd("~/Coursera")
 
 ## get dataset
 dataFile <- "./data/household_power_consumption.txt"
